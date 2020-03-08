@@ -33,7 +33,7 @@ a2=np.array([[1,2],[2,3],[6,7]]) #2d array
 # print(a2.itemsize) 
 # print(a2.dtype)   #to get the size of string element   #string <U1 
 print(a1.shape)  #tp get shape and size[row,column ] 
-print(a1.size)
+print(a1.size)   
 print(a2.shape)  #tp get shape and size 
 print(a2.size)
 
